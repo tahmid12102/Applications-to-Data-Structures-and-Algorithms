@@ -1,0 +1,1 @@
+A repository for projects that use classical data structures and algorithms to solve real world problems.
